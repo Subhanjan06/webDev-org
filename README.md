@@ -1,3 +1,3 @@
 # webDev.org
 
-testing website template for
+testing website template in progress

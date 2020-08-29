@@ -1,2 +1,3 @@
-#webDev.org
-This is personal in progress website template
+# webDev.org
+
+testing website template for
